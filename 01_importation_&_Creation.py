@@ -3,7 +3,6 @@ How to import numpy module
 1.Numpy=> Numerical Python
 2.Numpy is a library in Python that provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
 It is widely used in scientific computing, data analysis, and machine learning.
-
 """
 #importing numpy module
 
