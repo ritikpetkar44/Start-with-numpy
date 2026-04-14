@@ -1,6 +1,6 @@
 """
 This module provides functions to get the shape and size of numpy arrays.
-shape is a tuple that represents the dimensions of the array, while size is the total number of elements in the array.
+shape is a tuple that represents the dimensions of the array, while size is the total number of elements in the array. 
 """
 import numpy as np
 
