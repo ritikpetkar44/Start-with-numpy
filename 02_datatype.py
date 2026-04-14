@@ -5,6 +5,7 @@ its allows you to specify the type of data that you want to store in a numpy arr
 """
 import numpy as np
 
+
 #assigning a numpy array with a specific data type
 #In this example, we are creating a numpy array with the data type of int32, 
 # which means that the array will store 32-bit integers.
